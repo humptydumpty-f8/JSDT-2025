@@ -1,7 +1,5 @@
 package lec3;
 
-import java.io.Console;
-
 /**
  * Обробка параметрів командного рядка
  */
