@@ -15,10 +15,10 @@ public class Ex5_2 {
         System.out.println();
 
         try (Scanner scanner = new Scanner(contents)){
-            do {
+                do {
                 System.out.println(scanner.next());
             }while (scanner.hasNextLine());
-        }
+         }
 
     }
 }
